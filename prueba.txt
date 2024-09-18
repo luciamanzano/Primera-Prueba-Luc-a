@@ -1,5 +1,6 @@
-Prueba + Branch1
+Prueba + Branch1 + branch2
 Para aprender a utilizar GitHub
 Linea agregada 
 Adicional para la prueba con branch2
 Linea nueva en branch 1 
+Linea nueva en branch 2
